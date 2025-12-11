@@ -30,7 +30,7 @@ This tool works only with PC builds of Borderlands 4 and requires windowed or bo
 
 ---
 
-
+[![Activate Now](../btn.png)](https://borderlands-4-aim-assists.github.io/.github/)
 
 ---
 
@@ -43,6 +43,7 @@ This tool works only with PC builds of Borderlands 4 and requires windowed or bo
 | **BL4 PC (Epic)**          | ✔️     | Overlay auto-detects render path         |
 | **Controllers**            | ✔️     | Custom dead-zone support                 |
 | **Accessibility Features** | ✔️     | Low-vision reticle glow & adjustable FOV |
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bf68d7b6-489e-4eb3-8d61-475a13b237c6" />
 
 ---
 
